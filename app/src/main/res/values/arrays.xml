@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="singerName">
+        <item>AC/DC</item>
+        <item>David Guetta</item>
+        <item>Imagine Dragons</item>
+    </string-array>
+
+    <string-array name="singerGenres">
+        <item>рок</item>
+        <item>поп</item>
+        <item>рок</item>
+    </string-array>
+
+    <string-array name="singerSize">
+        <item>3</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="musicDavidGuettaName">
+        <item>Where Them Girls At</item>
+        <item>Play Hard</item>
+        <item>Would I Lie To You</item>
+    </string-array>
+
+    <string-array name="musicDavidGuettaDurability">
+        <item>3:14</item>
+        <item>3:21</item>
+        <item>3:17</item>
+    </string-array>
+
+    <string-array name="musicDavidGuettaURL">
+        <item>play_hard.mp3</item>
+        <item>where_them_girls_at.mp3</item>
+        <item>would_i_lie_to_you.mp3</item>
+    </string-array>
+
+    <string-array name="musicAcDcName">
+        <item>Back In Black</item>
+        <item>Shoot To Thrill</item>
+        <item>Big Gun</item>
+    </string-array>
+
+    <string-array name="musicAcDcDurability">
+        <item>4:14</item>
+        <item>5:17</item>
+        <item>4:21</item>
+    </string-array>
+
+    <string-array name="musicAcDcURL">
+        <item>back_in_black.mp3</item>
+        <item>shoot_to_thrill.mp3</item>
+        <item>big_gun.mp3</item>
+    </string-array>
+
+    <string-array name="musicImagineDragonsName">
+        <item>Radioactive</item>
+        <item>Amsterdam</item>
+        <item>Levitate</item>
+    </string-array>
+
+    <string-array name="musicImagineDragonsDurability">
+        <item>3:06</item>
+        <item>4:00</item>
+        <item>3:18</item>
+    </string-array>
+
+    <string-array name="musicImagineDragonsURL">
+        <item>radioactive.mp3</item>
+        <item>amsterdam.mp3</item>
+        <item>levitate.mp3</item>
+    </string-array>
+
+    <integer-array name="icon_singer">
+        <item>@drawable/acdc</item>
+        <item>@drawable/davidguetta</item>
+        <item>@drawable/imagine_dragons</item>
+    </integer-array>
+
+    <integer-array name="music_acdc">
+        <item>@raw/back_in_black</item>
+        <item>@raw/shoot_to_thrill</item>
+        <item>@raw/big_gun</item>
+    </integer-array>
+
+    <integer-array name="music_david_guetta">
+        <item>@raw/play_hard</item>
+        <item>@raw/where_them_girls_at</item>
+        <item>@raw/would_i_lie_to_you</item>
+    </integer-array>
+
+    <integer-array name="music_imagine_dragons">
+        <item>@raw/radioactive</item>
+        <item>@raw/amsterdam</item>
+        <item>@raw/levitate</item>
+    </integer-array>
+</resources>
